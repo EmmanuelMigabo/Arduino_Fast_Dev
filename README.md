@@ -1,2 +1,2 @@
 # Arduino_Fast_Dev
-Quick prototyping with Arduino boards
+Quick prototyping with Arduino boards and shields
